@@ -4,8 +4,8 @@
 // @name         Omegle Blacklister
 // @namespace    http://tampermonkey.net/
 // @version      1.3
-// @description  Blocks your connection with people you don't wanna meet anymore on Omegle.com by skipping them before they even show up on screen again; Blocks the connections with every country in country_blacklist at line 17; Deletes the annoying logo for every new connection.
-// @author       Dakkarm
+// @description  If you need help with the code click here: https://github.com/Dakkarm/Omegle_BlackList
+// @author       none
 // @match        https://www.omegle.com/
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=omegle.com
 // @grant        none
