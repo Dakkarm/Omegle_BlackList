@@ -32,7 +32,7 @@
     let btnBlacklist = document.getElementById('myButton');
     if (!btnBlacklist){
       let btnBlacklist = document.createElement('button');
-      btnBlacklist.innerHTML = 'BLACKLIST';
+      btnBlacklist.innerHTML = 'BLACKLIST'; 
       btnBlacklist.id = 'myButton';
       btnBlacklist.style.backgroundColor = 'black';
       btnBlacklist.style.color = 'white';
