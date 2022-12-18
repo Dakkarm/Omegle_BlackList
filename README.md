@@ -12,7 +12,7 @@ HOW TO USE:
 3) Copy and paste the code i provided inside the tab that Tampermonkey opened
 4) Register to https://app.ipgeolocation.io/ and get an API Key
 5) Edit the code by adding your own API Key at [line 22] and add/remove country names from country_blacklist at [line 17]
-6) Save and you are good to go, everytime you will open omegle.com the script will be running automatically
+6) Save and you are good to go, everytime you will open https://www.omegle.com the script will be running automatically
 ___________________________________________________________________________
 
 NOTE:
